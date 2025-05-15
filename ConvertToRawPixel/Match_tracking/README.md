@@ -26,7 +26,7 @@ This py file is utility to **compare object tracking results with annotated grou
 ```bash
 python analyze_tracking.py
 ```
-##The script will output:
+## The script will output:
 
 Matched IDs with IoU values
 
@@ -34,7 +34,7 @@ Unmatched tracking objects
 
 Unmatched ground truth objects
 
-##⚙️ Matching Criteria
+## ⚙️ Matching Criteria
 IoU threshold: 0.1 (configurable)
 
 Frame difference tolerance: ±5 frames
