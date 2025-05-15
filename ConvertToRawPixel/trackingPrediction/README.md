@@ -58,3 +58,9 @@ Once executed, it creates a new JSON file (tracking.json) with all bounding boxe
 ├── convert_tracking_to_pixels.py                    # This script
 └── README.md
 ```
+## ✅ Output
+You'll see a message like:
+```
+✅ Saved converted raw pixel JSON to: tracking.json
+```
+
