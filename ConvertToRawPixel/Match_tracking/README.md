@@ -11,8 +11,11 @@ This py file is utility to **compare object tracking results with annotated grou
 ## 📂 File Structure
 
 ├── tracking.json # Tracking output file
+
 ├── main_groundtruth.json # Ground truth annotations
+
 ├── analyze_tracking.py # Main comparison script
+
 └── README.md # Project documentation
 
 
