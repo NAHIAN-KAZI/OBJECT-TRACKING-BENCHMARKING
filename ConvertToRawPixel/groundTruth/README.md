@@ -26,13 +26,14 @@ Output file: main_groundtruth.json
 Resolution used: 3840x2160 (modifiable)
 
 ## To change resolution, edit these lines in the script:
-
+```
 resolution_width = 3840
 resolution_height = 2160
-
+```
 ## 🚀 How to Use
-
+```
 python convert_groundtruth_to_pixels.py
+```
 After execution, a new file main_groundtruth.json will be created with all bounding boxes in pixel units.
 
 ## 📂 Files
